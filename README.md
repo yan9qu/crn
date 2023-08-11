@@ -50,5 +50,9 @@ If you find this project useful for your research, please use the following BibT
   ISSN={1941-0042}}
 
 ```
+## Acknowledgement
+Most of the code modified from ClvcNet [1], thanks!
+
+[1] Wen, Haokun, et al. "Comprehensive linguistic-visual composition network for image retrieval." Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2021.
 
 A detailed README will be updated later. Please stay tuned!
